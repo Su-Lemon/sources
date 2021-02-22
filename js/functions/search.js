@@ -91,5 +91,5 @@ var searchFunc = function(path, search_id, content_id) {
   });
 };
 
-var path = "/search.xml";
+var path = "<%= config.root %>" + "search.xml";
 searchFunc(path, 'local-search-input', 'local-search-result');
