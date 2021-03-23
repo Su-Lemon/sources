@@ -1,11 +1,5 @@
 # Source
 
-## Gitee作为图床
-
-`https://gitee.com/Su-Lemon/sources/<path>`
-
-## GitHub作为图床等
-
 ### 直接引用资源
 将  `//raw.githubusercontent.com/...`  中  `githubusercontent`  替换为  `githack` 
 
@@ -20,12 +14,4 @@
 例如：`https://cdn.jsdelivr.net/gh/Su-Lemon/sources/js/functions/search.js` 
 
 **版本号不是必需的**，是为了区分新旧资源，如果不使用版本号，将会直接引用最新资源
-
-### 快捷引用
-
-替换对应的文件名即可。
-
-- imgs/cover
-
-`https://cdn.jsdelivr.net/gh/Su-Lemon/sources/imgs/cover/cover`
 
