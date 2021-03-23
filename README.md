@@ -2,7 +2,7 @@
 
 ## Gitee作为图床
 
-`https://cdn.jsdelivr.net/gh/Su-Lemon/sources/<path>`
+`https://gitee.com/Su-Lemon/sources/<path>`
 
 ## GitHub作为图床等
 
