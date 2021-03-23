@@ -75,12 +75,13 @@ Railscasts-like style (c) Visoft, Inc. (Damien White)
   color: #ffc66d;
 }
 
-.hljs-addition {
+.hljs-addition,
+/* {
   background-color: #144212;
   color: #e6e1dc;
   display: inline-block;
   width: 100%;
-}
+} */
 
 .hljs-deletion {
   background-color: #600;
