@@ -10,7 +10,7 @@ Railscasts-like style (c) Visoft, Inc. (Damien White)
   padding: 0.5em;
   /* background: #232323; */
   background: #282c34;
-  color: #e6e1dc;
+  color: #abb2bf;
 }
 
 .hljs-comment,
@@ -73,10 +73,10 @@ Railscasts-like style (c) Visoft, Inc. (Damien White)
 }
 
 .hljs-addition {
-  background-color: #144212;
+  /* background-color: #144212;
   color: #e6e1dc;
   display: inline-block;
-  width: 100%;
+  width: 100%; */
 }
 
 .hljs-deletion {
