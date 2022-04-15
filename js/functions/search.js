@@ -111,5 +111,3 @@ $resultArea.bind("DOMNodeRemoved DOMNodeInserted", function(e) {
       $(".no-result").hide();
     }
 })
-
-
